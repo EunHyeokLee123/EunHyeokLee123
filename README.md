@@ -5,9 +5,11 @@
 단순 기능 구현보다 사용자 경험과 서비스 운영을 중요하게 생각하며,
 사용자 지표를 기반으로 서비스를 분석하고 개선하는 개발을 진행중입니다.
 <br>
-[대표 프로젝트](https://github.com/EunHyeokLee123/stray_host)
+## 🚀 대표 프로젝트
+[![GitHub](https://img.shields.io/badge/StrayHost-Repository-181717?style=for-the-badge&logo=github)](https://github.com/EunHyeokLee123/stray_host)
 <br>
-[운영중인 반려동물 정보 서비스](https://nyangmong.com)
+### 호스팅된 웹사이트 링크 (이미지 클릭 시 이동)
+[![logo](https://raw.githubusercontent.com/EunHyeokLee123/EunHyeokLee123/main/logo.png)](https://nyangmong.com)
 
 ## 🛠 기술 스택
 - Java / Spring Boot
