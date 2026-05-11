@@ -9,6 +9,8 @@
 - Docker / Kubernetes
 - AWS / Jenkins / ArgoCD
 - React / JavaScript
+  # 학습중
+- FastAPI / Python
 
 ## 🚀 관심 분야
 - 확장 가능한 백엔드 아키텍처
