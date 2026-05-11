@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Eunhyeok Lee
 
-<!--
-**EunHyeokLee123/EunHyeokLee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building and operating real-world services.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Java / Spring Boot
+- MySQL / JPA / QueryDSL
+- Redis / REST API
+- Docker / Kubernetes
+- AWS / Jenkins / ArgoCD
+- React / JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interested In
+- Scalable Backend Architecture
+- MSA & DevOps
+- Service Optimization
+- AI-powered Services
+
+## 📌 Experience
+- Built and operated MSA-based backend services
+- Improved services using real user metrics
+- Implemented JWT authentication & CI/CD pipelines
+- Experienced with AWS & Docker-based deployment
+
+## 📫 Contact
+- Email: secun77@naver.com
+- GitHub: https://github.com/secun77
